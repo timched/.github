@@ -6,7 +6,7 @@ I'm a developer from Ukraine 🇺🇦, working mostly with **C#** and **Python**
 
 - 🛠️ Building things in C# and Python
 - 🤖 Using Claude daily for coding, learning, and experiments
-- 🚀 Working on **JustCoin** and also **TimchPedia*
+- 🚀 Working on **JustCoin** and also **TimchPedia**
 - 🔭 Currently exploring new ideas and tools
 - 💬 Open to collaboration and feedback
 
