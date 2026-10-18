@@ -16,7 +16,6 @@ I'm a developer and tech enthusiast from Ukraine 🇺🇦. I enjoy programming, 
 |---|---|
 | [Expressivegram](https://github.com/timched/Expressivegram) | A Telegram Desktop fork with a Material 3 Expressive-inspired redesign. |
 | [PineconeMC-Debian](https://github.com/timched/PineconeMC-Debian) | A Prism Launcher fork focused on Debian packaging and Ely.by account support. |
-| [MoniumProject](https://github.com/MoniumProject) | An initiative exploring ChromeOS-inspired experiences on PCs. |
 
 ## 💡 Things I Like
 
